@@ -1,1 +1,2 @@
 # recursion
+Practice repo for recusion in javascript. Made a fibonacci sequence with recursion, and a merge_sort function. This exercise enables me to apply what I learned in recursion. This code is not perfect, I still have a lot to learn.
